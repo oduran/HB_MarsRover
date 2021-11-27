@@ -1,0 +1,14 @@
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\bin\Debug\netcoreapp3.1\HB_MarsRover.exe
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\bin\Debug\netcoreapp3.1\HB_MarsRover.deps.json
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\bin\Debug\netcoreapp3.1\HB_MarsRover.runtimeconfig.json
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\bin\Debug\netcoreapp3.1\HB_MarsRover.runtimeconfig.dev.json
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\bin\Debug\netcoreapp3.1\HB_MarsRover.dll
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\bin\Debug\netcoreapp3.1\HB_MarsRover.pdb
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\obj\Debug\netcoreapp3.1\HB_MarsRover.csproj.AssemblyReference.cache
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\obj\Debug\netcoreapp3.1\HB_MarsRover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\obj\Debug\netcoreapp3.1\HB_MarsRover.AssemblyInfoInputs.cache
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\obj\Debug\netcoreapp3.1\HB_MarsRover.AssemblyInfo.cs
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\obj\Debug\netcoreapp3.1\HB_MarsRover.csproj.CoreCompileInputs.cache
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\obj\Debug\netcoreapp3.1\HB_MarsRover.dll
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\obj\Debug\netcoreapp3.1\HB_MarsRover.pdb
+C:\Users\oguzhan.duran\source\repos\HB_MarsRover\HB_MarsRover\obj\Debug\netcoreapp3.1\HB_MarsRover.genruntimeconfig.cache
