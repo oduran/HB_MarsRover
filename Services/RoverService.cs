@@ -100,7 +100,7 @@ namespace HB_MarsRover.Services
         {
             ResultItem<RoverModel> res = new ResultItem<RoverModel>();
             
-            if (rover.XPosition > surface.Width.ToInt() || rover.YPosition > surface.Height.ToInt())
+            if (rover.XPosition < 0 || rover.XPosition > surface.Width.ToInt() || rover.YPosition <0|| rover.YPosition > surface.Height.ToInt())
             {
                 res.Message = string.Format(CoreConstant.RoverGoneOutOfSurface,rover.XPosition,rover.YPosition,rover.Direction);
                 return res;

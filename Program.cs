@@ -105,16 +105,16 @@ namespace HB_MarsRover
 
                     for (int i = 0; i < roverMovement.Length; i++)
                     {
-                        var movement = roverMovement[i];
-
+                        var rotateChar = roverMovement[i].ToString();
+                        int rotate = (int)EnumHelper.GetValueFromDescription<MovementEnum>(rotateChar);
                         // If next movement is L or R
                         // Change the rover direction
-                        if (movement == (char)MovementEnum.Left || movement == (char)MovementEnum.Right)
+                        if (rotate == (int)MovementEnum.Left || rotate == (int)MovementEnum.Right)
                         {
-                            lastDirection = DirectionHelper.TurnByMovement(lastDirection, movement);
+                            lastDirection = DirectionHelper.TurnByMovement(lastDirection, rotate);
                             continue;
                         }
-                        else if (movement == (char)MovementEnum.Move)
+                        else if (rotate == (int)MovementEnum.Move)
                         {
                             // Call RoverService -> MoveRover
                             // Move Rover with the given rovers last direction
